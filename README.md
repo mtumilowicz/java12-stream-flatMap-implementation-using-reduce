@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.com/mtumilowicz/java11-stream-map-filter-implementation-using-reduce.svg?branch=master)](https://travis-ci.com/mtumilowicz/java11-stream-map-filter-implementation-using-reduce)
 # java12-stream-flatMap-implementation-using-reduce
 
 We will show how to implement stream's `flatMap` using only `reduce`.
