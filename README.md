@@ -1,7 +1,6 @@
 # java12-stream-flatMap-implementation-using-reduce
 
-We will show how to implement stream's `map` / `filter` 
-using only `reduce`.
+We will show how to implement stream's `flatMap` using only `reduce`.
 
 Please refer also: https://github.com/mtumilowicz/java11-stream-map-filter-implementation-using-reduce
 
